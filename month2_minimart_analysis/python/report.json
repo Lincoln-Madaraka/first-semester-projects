@@ -1,0 +1,10 @@
+{
+    "total_products_sold": 21,
+    "most_popular_product": "Orange Juice",
+    "revenue_per_customer": {
+        "Alice": 15.0,
+        "Bob": 7.5,
+        "Charlie": 2.0,
+        "Ethan": 12.0
+    }
+}
